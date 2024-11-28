@@ -1,0 +1,6 @@
+pyautogui
+pynput
+pygetwindow
+pyperclip
+speechrecognition
+torch
